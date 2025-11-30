@@ -1,0 +1,19 @@
+Project Name: Website Scanning Using Nmap
+Designation: Network Engineer
+Software Used: Nmap.
+Required OS: Kali Linux.
+
+Project Description:
+The project focuses on scanning and examining a website on the target and identifying its vulnerabilities and potential security weaknesses utilizing the Network Mapper tool implemented in the kali Linux OS. At first, I was engaged as a Network Engineer and obtained permission from the client for scanning, testing, and various other tasks. Obtaining permission from the client is essential.
+
+
+My Roles and Responsibilities:
+•	Optimized security policies to confirm to industry best practices and client-specific business demands.
+•	Conducted network scanning using Nmap to discover all open ports and services.
+•	Executed comprehensive Nmap scanning techniques across all 65,535 ports to identify open ports, running services, version detection, and OS detection, effectively mapping the website's attack surface.
+•	Interpreted scan results to pinpoint high-risk areas and potential security weaknesses.
+•	Prepared detailed scan reports, including identified risks, and mitigation strategies.
+•	Maintained documentation for technical reference and future audits. 
+•	Collaborated with the project manager to review findings and validate issues.
+•	Compiled comprehensive vulnerability assessment reports, detailing risk levels, technical findings, and actionable recommendations to strengthen the overall security posture.
+•	Recommended patching, port filtering, and service hardening based on scan results.
